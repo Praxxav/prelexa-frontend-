@@ -1,4 +1,4 @@
-# Lexi - Frontend
+# prelexa - Frontend
 Lexi Frontend is a Next.js + TypeScript application that provides an interactive interface for AI-powered legal document automation, connecting seamlessly with the Lexi Backend (FastAPI)
 ## System Architecture
 ![alt text](image-3.png)
